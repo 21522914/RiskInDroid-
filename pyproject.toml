@@ -1,0 +1,9 @@
+[project]
+name = "RiskInDroid"
+requires-python = ">=3.9"
+
+[tool.ruff]
+line-length = 88
+
+[tool.ruff.lint]
+extend-select = ["I"]
